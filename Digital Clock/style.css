@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-image: url(Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg);
+    background-image: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.clock{
+    display: flex;
+    justify-content: center;
+
+}
+
+#digital{
+    font-weight: bold;
+    text-align: center;
+    font-family:  monospace;
+    font-size: 6.5rem;
+    color: white;
+    
+   
+}
